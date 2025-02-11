@@ -1,8 +1,18 @@
-# React + Vite
+## VITEST
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Coverage](image.png)
 
-Currently, two official plugins are available:
+- to open this use
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```js
+//for mac
+open coverage/index.html
+```
+
+- for mockapi we are using msw
+
+- code coverage providers
+
+  > the build in one is v8 but for more functionality istanbul is famous
+
+  g
